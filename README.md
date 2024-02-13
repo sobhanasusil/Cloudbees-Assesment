@@ -25,6 +25,11 @@ To run this project locally, follow these steps:
 6. Click on any user in the list to navigate to the User Details page.
 
 ### Preview
+![image](https://github.com/sobhanasusil/Cloudbees-Assesment/assets/134158124/da400330-85ab-4d1c-8a06-62786b7b1708)
+![image(1)](https://github.com/sobhanasusil/Cloudbees-Assesment/assets/134158124/e5345f3c-9307-457a-afa4-9ee7d8081d3a)
+![image(2)](https://github.com/sobhanasusil/Cloudbees-Assesment/assets/134158124/623bbb26-2a61-4dff-bda8-1f2cc10f521f)
+![image(3)](https://github.com/sobhanasusil/Cloudbees-Assesment/assets/134158124/07938b68-e3bd-4e89-bc6a-c12796b83c58)
+![image(4)](https://github.com/sobhanasusil/Cloudbees-Assesment/assets/134158124/1f7a7ab4-74d4-48e3-8b6e-b7676ce1e7c7)
 
 
 ### Contributing
