@@ -13,6 +13,9 @@ This page displays more detailed information for the selected user. It shows ext
 - React
 - Material-UI (MUI) for React components
 - GitHub Users API
+- HTML 5
+- CSS 3
+- js
 
 ### Getting Started
 To run this project locally, follow these steps:
